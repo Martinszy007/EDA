@@ -3,12 +3,17 @@
 ## Introduction
 This project contains dataset from King County(USA).
 
+## Data
+Dataset was gotten from the kaggle website.
+[Data](https://www.kaggle.com/datasets/andykrause/kingcountysales)
+
 ## Aim
 The aim of this project is to use Explanatory Data Analysis (EDA) to recommend a house for Mr Thomas hansen and his family(5kids) in a nice neighborhood.
 Note: This project is limited to just EDA Visualization anaylsis to recommend neighborhood for Mr. Thomas.
 
 ## Result & Conclusion
 A detailed outline of the result is shown in the notebook.
+[Analysis Notebook](https://nbviewer.org/github/Martinszy007/EDA_First-Project/blob/main/Eda_notebook.ipynb)
 
 
 ## Requirements
